@@ -16,6 +16,8 @@ This doesn't mean that they ONLY do Slack, just that they are mostly used with S
 - **Peer to peer connection**
   -  https://www.reciprocity.community/ The Ask/Offer Matching Platform
   -  https://www.commsor.com/ Create smart, automated 1-1 matches between members. Fully customize your matching criteria based on what matters to your members. Automate the entire matching process, from start to finish.
+- **Surfacing Content inside Slack**
+  - [Peritus Assistant for Slack](https://peritus.ai/usecase/72/peritus-assistant-for-slack): The patented Peritus Recommendation Engine uses machine learning to respond instantly to technical questions on your Slack team channel. When you add @AskPeritus to your technical question, the Peritus Assistant provides an instant reply just for you to avoid distracting the channel. Direct message to @AskPeritus is also supported.
 - **Public Knowledge base**
   - SaveSlack ([HN](https://news.ycombinator.com/item?id=32385856))
   - [KBClip](https://kbclip.com/): Save FAQs from Slack with one click. KB Clip lets you instantly turn any conversation into a rough article.
