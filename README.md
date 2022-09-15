@@ -39,7 +39,6 @@ For commmunities that are split across platforms
 -  
 
 
-
 ## Swag
 
 - **Vendors**
@@ -47,6 +46,8 @@ For commmunities that are split across platforms
   - https://www.printfection.com/ 
 - **Ideas**
   - https://twitter.com/bernhardsson/status/1558199825409228800
+  - Gamification https://www.beam.gg/ "Build and monetize engaged and loyal online communities through the power of gamification."
+
 
 ## other lists like these
 
