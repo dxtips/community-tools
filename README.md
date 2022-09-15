@@ -49,6 +49,10 @@ For commmunities that are split across platforms
   - Gamification https://www.beam.gg/ "Build and monetize engaged and loyal online communities through the power of gamification."
 
 
+## Misc
+
+- Hackathons https://devpost.com/
+
 ## other lists like these
 
 https://www.commsor.com/post/mapping-the-ecosystem-of-community-tools
