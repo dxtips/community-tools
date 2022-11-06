@@ -22,7 +22,7 @@ This doesn't mean that they ONLY do Slack, just that they are mostly used with S
   - SaveSlack ([HN](https://news.ycombinator.com/item?id=32385856))
   - [KBClip](https://kbclip.com/): Save FAQs from Slack with one click. KB Clip lets you instantly turn any conversation into a rough article.
   - https://insideropinion.com/  Search for experts or resources at your business and in real-time track expertise, behavior, satisfaction and influence.
-  - https://www.linen.dev/ Linen syncs your Slack and Discord threads to an SEO friendly website that allows your community to discover you through search engines and reduces the number of repeat questions.
+  - https://www./ Linen syncs your Slack and Discord threads to an SEO friendly website that allows your community to discover you through search engines and reduces the number of repeat questions.
 
 ## Discord focused
 
