@@ -29,6 +29,7 @@ This doesn't mean that they ONLY do Slack, just that they are mostly used with S
 - https://mee6.xyz/ Configure moderation, leveling, Twitch alerts, and much more with the most easy-to-use dashboard!
 - **Public Knowledge Base**
   - [Answer Overflow](https://www.answeroverflow.com/): A big focus of this project is building out tools to improve help channels on Discord and then using what gets built out to drive user consent, for example one feature of it is being able to mark questions as solved which also prompts users to contribute their messages
+- Dots https://news.ycombinator.com/item?id=33641655#33643493 We help people manage large communities on Discord by automating common tasks like onboarding new members and providing insights on your most valuable members.
 
 ## Community bridges
 
