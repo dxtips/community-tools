@@ -6,6 +6,7 @@ list of tools for community
 - [Orbit.love](https://orbit.love/): Orbit’s unique approach is based on the [Orbit Model](https://orbitmodel.com/), a framework to visualize and quantify your entire community so that you can scale high gravity communities.
 - [CommonRoom](https://www.commonroom.io/): Instantly connect community engagement across all channels to unlock intelligent insights and actions. Grow happier customers, measure outcomes, and drive business impact with Common Room.
 - [Commsor](https://www.commsor.com/): Analyze, Engage & Scale, Connect all your tools to get in-depth community analytics and prove ROI. Power and automate engagement through swag, events, content planning, and more.
+- https://www.crowd.dev/ seems similar to orbit
 
 ## Slack focused
 
