@@ -38,7 +38,6 @@ For commmunities that are split across platforms
 
 - Discord-Slack:
   -  https://github.com/nthitz/discord-slack-import
--  
 
 
 ## Swag
@@ -54,6 +53,9 @@ For commmunities that are split across platforms
 ## Misc
 
 - Hackathons https://devpost.com/
+- content repurposing
+  -  hearing good things about https://www.opus.pro/ for making shorts from longform video
+  -  https://contenda.co/ video to blogpost
 
 ## other lists like these
 
