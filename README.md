@@ -39,7 +39,8 @@ For commmunities that are split across platforms
 
 - Discord-Slack:
   -  https://github.com/nthitz/discord-slack-import
-
+- Blaze AI
+  - https://twitter.com/blaze_ai/status/1653877844832055297
 
 ## Swag
 
