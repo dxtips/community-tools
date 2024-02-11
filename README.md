@@ -41,6 +41,8 @@ For commmunities that are split across platforms
   -  https://github.com/nthitz/discord-slack-import
 - Blaze AI
   - https://twitter.com/blaze_ai/status/1653877844832055297
+- Struct https://www.struct.ai/blog/launching-struct-chat-platform
+  - AIfirst slack/discord alternative with slack/discord bridge
 
 ## Swag
 
